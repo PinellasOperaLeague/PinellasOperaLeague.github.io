@@ -31,29 +31,9 @@ $(document).ready(function(){
           <li id="newsletters" class="dropdown">\
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Newsletters <b class="caret"></b></a>\
           <ul class="dropdown-menu">\
-            <li><a href="documents/apr2016.pdf">April 2016</a></li>\
-            <li><a href="documents/mar2016.pdf">March 2016</a></li>\
-            <li><a href="documents/feb2016.pdf">February 2016</a></li>\
-            <li><a href="documents/jan2016.pdf">January 2016</a></li>\
-            <li><a href="documents/dec2015.pdf">December 2015</a></li>\
-            <li><a href="documents/oct2015.pdf">October 2015</a></li>\
-            <li><a href="documents/jun2015.pdf">June 2015</a></li>\
-            <li><a href="documents/may2015.pdf">May 2015</a></li>\
-            <li><a href="documents/apr2015.pdf">April 2015</a></li>\
-            <li><a href="documents/mar2015.pdf">March 2015</a></li>\
-            <li><a href="documents/feb2015.pdf">February 2015</a></li>\
-            <li><a href="documents/jan2015.pdf">January 2015</a></li>\
-            <li><a href="documents/dec2014.pdf">December 2014</a></li>\
-            <li><a href="documents/nov2014.pdf">November 2014</a></li>\
-            <li><a href="documents/oct2014.pdf">October 2014</a></li>\
-            <li><a href="documents/june2014.pdf">June 2014</a></li>\
-            <li><a href="documents/may2014.pdf">May 2014</a></li>\
-            <li><a href="documents/april2014.pdf">April 2014</a></li>\
-            <li><a href="documents/march2014.pdf">March 2014</a></li>\
-            <li><a href="documents/feb2014.pdf">February 2014</a></li>\
-            <li><a href="documents/jan2014.pdf">January 2014</a></li>\
-            <li><a href="documents/dec2013.pdf">December 2013</a></li>\
-          </ul>\
+            <li><a href="documents/current.pdf">Most Recent Edition</a></li>\
+            <li><a href="documents/previous.pdf">Previous Edition</a></li>\
+            </ul>\
           </li>\
           <li id="contact"><a href="contact.html">Contact</a></li>\
           <li id="local_opera"><a href="local_opera.html">Local Opera</a></li>\
